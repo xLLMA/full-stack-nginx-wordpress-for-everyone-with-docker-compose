@@ -5,7 +5,7 @@ echo ""
 echo "======================================================================="
 echo "|                                                                     |"
 echo "|     full-stack-nginx-wordpress-for-everyone-with-docker-compose     |"
-echo "|                      by Erdal ALTIN                                 |"
+echo "|                      by Mmdrza.Com                                  |"
 echo "|                                                                     |"
 echo "======================================================================="
 sleep 2
