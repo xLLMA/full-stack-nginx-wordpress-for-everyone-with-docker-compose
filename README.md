@@ -1,4 +1,4 @@
-# [full stack nginx WordPress for everyone with docker compose](https://github.com/xLLMA/full-stack-nginx-wordpress-for-everyone-with-docker-compose)
+# [full stack nginx WordPress for everyone with docker compose](https://github.com/xLLMA/webmaster-docker)
 
 If You want to build a website with WordPress at short time;
 
@@ -82,13 +82,13 @@ Create rules to open ports to the internet, or to a specific IPv4 address or ran
 download with
 
 ```
-git clone https://github.com/xLLMA/full-stack-nginx-wordpress-for-everyone-with-docker-compose.git
+git clone https://github.com/xLLMA/webmaster-docker.git
 ```
 
 Open a terminal and `cd` to the folder in which `docker-compose.yml` is saved and run:
 
 ```
-cd full-stack-nginx-wordpress-for-everyone-with-docker-compose
+cd webmaster-docker
 chmod +x install.sh
 ./install.sh
 ```
@@ -111,13 +111,13 @@ Make sure to [add your user to the `docker` group](https://docs.docker.com/insta
 download with
 
 ```
-git clone https://github.com/xLLMA/full-stack-nginx-wordpress-for-everyone-with-docker-compose.git
+git clone https://github.com/xLLMA/webmaster-docker.git
 ```
 
 Open a terminal and `cd` to the folder in which `docker-compose.yml` is saved and run:
 
 ```
-cd full-stack-nginx-wordpress-for-everyone-with-docker-compose
+cd webmaster-docker
 ```
 
 Copy the example environment into `.env`
