@@ -1,4 +1,5 @@
-# [full stack nginx WordPress for everyone with docker compose](https://github.com/xLLMA/webmaster-docker)
+# Webmaster Docker (Easy Mode / Auto Install / All In One)
+## [full stack nginx WordPress for everyone with docker compose](https://github.com/xLLMA/webmaster-docker)
 
 If You want to build a website with WordPress at short time;
 
